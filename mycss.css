@@ -1,0 +1,54 @@
+
+
+p{
+    font-family: Monospace;
+    font-style: Lucida Console;
+    font-weight: bold;
+}
+
+#tb {
+    border-radius: 50px;
+    width:20px;
+    margin-left: 400px;
+    margin-top: 10%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border-color: indigo;
+
+}
+
+.highlight {
+    background-color: khaki;
+    color: red;
+    font-weight: bold;
+}
+
+.highlight:hover{
+    background-color: purple;
+    color: black;
+}
+
+.card1 {
+    width:200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.img1 {
+    width:70%;
+    margin-left: 10%;
+    border-radius: 100%;
+
+
+}
+
+
+
+.column {
+    float: left;
+    width:30%;
+    padding: 10px;
+    height:300px;
+    margin-left: 10PX;
+}
